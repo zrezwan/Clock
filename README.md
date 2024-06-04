@@ -1,2 +1,2 @@
-# Clock
-First project on Github. Outputs the current time or time in different time zone. Also can set alarms.
+# First Project: A basic clock
+Class definition to get the current time, including in other timezones, and set alarms.
